@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://localhost:1313/</link><description>Recent content on blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 21:56:32 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>1jan2025</title><link>http://localhost:1313/posts/1jan2025/</link><pubDate>Wed, 01 Jan 2025 21:56:32 +0530</pubDate><guid>http://localhost:1313/posts/1jan2025/</guid><description>&lt;p>Today aside from an easy leetcode problem, studied knapsack problem - DP, solved a couple.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Stuck on a leetcode hard problem (two infact)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference">https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>need to figure out a memoized/tabulation solution for above.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/">https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>no idea about the solution.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Spring auth&lt;/p>
+&lt;ul>
+&lt;li>found out books about learning spring security in depth:&lt;/li>
+&lt;li>Book is : Spring Boot in Practice - Somnath Musib&lt;/li>
+&lt;li>Other really in depth book about spring security is Spring Security in action&lt;/li>
+&lt;li>All books: &lt;a href="https://drive.google.com/drive/folders/1TUk16jJaXRewnORkntY24mkzFxhliGC8?usp=sharing">here&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
